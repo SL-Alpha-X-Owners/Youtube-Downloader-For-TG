@@ -22,4 +22,4 @@
 
 # ⚕️ JOIN WITH US >>
 
-<a href="https://t.me/telegrm_music9"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/telegrm_music9"><img src="https://img.shields.io/badge/Join-Telegram%20Group-red.svg?logo=Telegram"></a>
