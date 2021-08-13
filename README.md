@@ -1,6 +1,6 @@
 <h1 align="center"><b>~ YT DOWNLOADER BOT - TG ~</b></h1>
 
-![logo](https://telegra.ph/file/1cde492d904aac25eaf04.jpg)
+![logo](https://telegra.ph/file/fe4379cb5ebf812e3379e.jpg)
 
 <p align="center">
     Project YT DOWNLOADER Helps You To Download High Quality Videos From Youtube Fastly And All Are free Now
