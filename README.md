@@ -9,6 +9,8 @@
     <br>
 </p>
 
+# 🔐 Avaiilable on Telegram as [@XX_YT_DOWNLOADER_XX_BOT](https://t.me/XX_YT_DOWNLOADER_XX_BOT)
+
 # 🀄 Deploy To Heroku >>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SL-Alpha-X-Team/Youtube-Downloader-For-TG)
