@@ -8,8 +8,11 @@
         <a href="https://chat.whatsapp.com/Eop2wXquhYnCUpVSbGNNWx">Alpha-X Wtzp Sup Group</a>
     <br>
 </p>
-# How to Deploy 
+
+# How to Deploy >>
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SL-Alpha-X-Team/Youtube-Downloader-For-TG)
 
-# ❤️ Support ❤️
-<a href="https://t.me/danumabots"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+# JOIN WITH US >>
+
+<a href="https://t.me/telegrm_music9"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
