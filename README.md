@@ -10,7 +10,7 @@
 </p>
 
 # 🔐 Available on Telegram As >> <br>
-<a href="https://t.me/XX_YT_DOWNLOADER_XX_BOT"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/XX_YT_DOWNLOADER_XX_BOT"><img src="https://img.shields.io/badge/Join-TELEGRAM%20BOT-white.svg?logo=Telegram"></a>
 
 <br>
 
