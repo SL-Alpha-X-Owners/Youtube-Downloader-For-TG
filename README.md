@@ -1,4 +1,4 @@
-<h1 align="center"><b>~ YT DOWNLOADER BOT - TG ~</b></h1>
+<h1 align="center"><b>🎈 Youtube Downloader Bot 🎗</b></h1>
 
 ![logo](https://telegra.ph/file/fe4379cb5ebf812e3379e.jpg)
 <br>
@@ -9,10 +9,10 @@
     <br>
 </p>
 
-# How to Deploy >>
+# 🀄 Deploy To Heroku >>
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SL-Alpha-X-Team/Youtube-Downloader-For-TG)
 
-# JOIN WITH US >>
+# 🧿 JOIN WITH US >>
 
 <a href="https://t.me/telegrm_music9"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
