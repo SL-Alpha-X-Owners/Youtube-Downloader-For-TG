@@ -9,8 +9,8 @@
     <br>
 </p>
 
-# 🔐 Avaiilable on Telegram as <br>
-[@XX_YT_DOWNLOADER_XX_BOT](https://t.me/XX_YT_DOWNLOADER_XX_BOT)
+# 🔐 Available on Telegram As >> <br>
+<a href="https://t.me/XX_YT_DOWNLOADER_XX_BOT"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 <br>
 
