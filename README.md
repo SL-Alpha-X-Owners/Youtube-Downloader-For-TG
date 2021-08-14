@@ -22,4 +22,4 @@
 
 # ⚕️ JOIN WITH US >>
 
-<a href="https://t.me/AlphaX_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20SUP-Group-red.svg?logo=Telegram"></a>
+<a href="https://t.me/AlphaX_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20SUPGroup-red.svg?logo=Telegram"></a>
