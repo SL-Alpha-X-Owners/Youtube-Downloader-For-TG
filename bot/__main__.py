@@ -1,3 +1,5 @@
+# 🍁 Fast & High Quality YT Downloader Bot 🔥
+
 from pyrogram import Client
 import config
 
