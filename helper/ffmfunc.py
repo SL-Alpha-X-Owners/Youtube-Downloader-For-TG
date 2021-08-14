@@ -1,3 +1,5 @@
+# BOT BY ALPHA_X TEAM
+
 import subprocess as sp
 import json
 
