@@ -5,3 +5,5 @@ APP_ID = int(os.environ.get("API_ID"))
 API_HASH = os.environ.get("API_HASH")
 youtube_next_fetch = 0 
 EDIT_TIME = 5
+
+# 🍁 Fast & High Quality YT Downloader Bot 🔥
