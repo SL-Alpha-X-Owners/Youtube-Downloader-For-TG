@@ -16,13 +16,13 @@
     
   </a>
   <a href="https://github.com/SL-Alpha-X-Team/Youtube-Downloader-For-TG/stargazers">
-    <img src="https://img.shields.io/github/stars/SL-Alpha-X-Team/Alpha-X-Bot?style=social">
+    <img src="https://img.shields.io/github/stars/SL-Alpha-X-Team/Youtube-Downloader-For-TG?style=social">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/SL-Alpha-X-Team/Youtube-Downloader-For-TG">
-    <img src="https://img.shields.io/github/repo-size/SL-Alpha-X-Team/Alpha-X-Bot?color=purple&label=Repo%20Size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/SL-Alpha-X-Team/Youtube-Downloader-For-TG?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
   <a href="https://github.com/SL-Alpha-X-Team/Youtube-Downloader-For-TG">
@@ -30,7 +30,7 @@
 
   </a>
   <a href="https://github.com/SL-Alpha-X-Team/Youtube-Downloader-For-TG/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/SL-Alpha-X-Team/Alpha-X-Bot?color=purple&label=Lisance&style=plastic">
+    <img src="https://img.shields.io/github/license/SL-Alpha-X-Team/Youtube-Downloader-For-TG?color=purple&label=Lisance&style=plastic">
 
   </a>
   <a href="https://github.com/SL-Alpha-X-Team/Youtube-Downloader-For-TG">
