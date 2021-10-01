@@ -58,3 +58,5 @@
 # ⚕️ JOIN WITH US >>
 
 <a href="https://t.me/AlphaX_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20SUPGroup-red.svg?logo=Telegram"></a>
+
+### Whatsapp Bot හැදුවට පස්සෙ මේ Bot ගෙ msg වල එන ලින්ක් ඔයාලට කැමති එකක් දාන්න පුලුවං විදිහට හදල දෙන්නං 🙂
