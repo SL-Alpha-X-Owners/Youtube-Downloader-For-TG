@@ -12,7 +12,7 @@
     
   </a>
   <a href="https://github.com/SL-Alpha-X-Team/Youtube-Downloader-For-TG/fork">
-    <img src="https://img.shields.io/github/forks/SL-Alpha-X-Team/Alpha-X-Bot?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/SL-Alpha-X-Team/Youtube-Downloader-For-TG?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/SL-Alpha-X-Team/Youtube-Downloader-For-TG/stargazers">
