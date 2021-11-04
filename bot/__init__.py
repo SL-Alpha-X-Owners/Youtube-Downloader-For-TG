@@ -1,4 +1,4 @@
 users ={}
 user_time = {}
 
-# BOT BY ALPHA-X TEAM
+# BOT BY SL_Jana_Team
